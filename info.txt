@@ -1,1 +1,4 @@
 Name: Yeast
+Tel: 0991154888
+Address: Ubonratchathani
+Birthday: 12/09/2544
